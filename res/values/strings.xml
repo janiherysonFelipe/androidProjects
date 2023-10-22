@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BancoDeDados</string>
+    <string name="tvTitulo">Cadastro de produtos</string>
+    <string name="tvCodigo">Código do produto</string>
+    <string name="tvDescricao">Descrição do produto</string>
+    <string name="tvPreco">Preço do produto</string>
+    <string name="edCodigo">Digite o código</string>
+    <string name="edDescricao">Digite a descrição</string>
+    <string name="edPreco">Digite o preço</string>
+    <string name="bTRegistrar">Registrar</string>
+    <string name="btModificar">Modificar</string>
+    <string name="btBuscar">Buscar</string>
+    <string name="btApagar">Excluir</string>
+</resources>
