@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReproducaoAudio</string>
+    <string name="tvTitutlo" />
+    <string name="tvTitulo">IMD player</string>
+</resources>
