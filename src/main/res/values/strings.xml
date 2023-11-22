@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenuApp</string>
+    <string name="MenuApp">menuApp</string>
+    <string name="ver_carrinho">ver_carrinho</string>
+    <string name="sair">sair</string>
+    <string name="perfil">perfil</string>
+</resources>

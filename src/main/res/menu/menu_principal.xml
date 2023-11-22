@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+    android:title="@string/ver_carrinho"
+    android:id="@+id/carrinho"
+    android:orderInCategory="100"
+    android:icon="@drawable/carrinho"
+    app:showAsAction="always"
+    />
+    <item
+        android:title="@string/perfil"
+        android:id="@+id/perfil"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="@string/sair"
+        android:id="@+id/sair"
+        android:orderInCategory="300"
+        app:showAsAction="never"
+        />
+</menu>
